@@ -21,6 +21,14 @@ namespace git
             int del = a / b;
             Console.WriteLine($"del {del}");
 
+
+            int umn = a * b;
+             Console.WriteLine($"umn {umn}");
+
+            int vich = a - b;
+            Console.WriteLine($"vich {vich}");
+
+
         }
     }
 }
