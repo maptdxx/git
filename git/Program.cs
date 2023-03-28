@@ -29,6 +29,10 @@ namespace git
             Console.WriteLine($"vich {vich}");
 
 
+            Console.WriteLine("212");
+
+
+
 
         }
     }
