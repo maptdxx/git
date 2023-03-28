@@ -17,6 +17,10 @@ namespace git
            
             int sum =  a + b;
             Console.WriteLine($"SUM {sum}");
+
+            int del = a / b;
+            Console.WriteLine($"del {del}");
+
         }
     }
 }
