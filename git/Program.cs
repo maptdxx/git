@@ -15,6 +15,8 @@ namespace git
             Console.WriteLine("Введите b");
             int b = Convert.ToInt32(Console.ReadLine());
            
+            int sum =  a + b;
+            Console.WriteLine($"SUM {sum}");
         }
     }
 }
